@@ -1,0 +1,20 @@
+export var data = [{
+  title:"活动名称",
+  desc:"name",
+},{
+  title:"活动区域",
+  desc:"region",
+},{
+  title:"活动时间",
+    desc:"date1",
+},{
+  title:"活动标签",
+    desc:"type",
+    isArray:true,
+},{
+  title:"活动性质",
+    desc:"resource",
+},{
+  title:"活动描述",
+    desc:"desc",
+}]
